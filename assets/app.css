@@ -139,6 +139,10 @@ html, body, .section {
     margin-top: 40px;
 }
 
+.top-padded-20 {
+    margin-top: 20px;
+}
+
 .techs .tech {
     display: inline-block;
     background: #F5F5F5;
